@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+img{
+	width:200px;
+	height:200px;
+	border-radius:50%;
+	border:5px solid pink
+}
+h1{
+	color:pink;
+}
+a{
+	text-decoration:none;
+}
